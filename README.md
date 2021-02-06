@@ -35,7 +35,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 | Date | Topic | Lecture materials| Reading|
 |------|-------|------------------|--------|
 |30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf), [Video](https://youtu.be/DeV6oMR84CM) |[FML] Ch 1; [ESL] Ch 2.1-2.2 |
-|6 feb|Gradient Optimization|  | [FML] Appx A, B;|
+|6 feb|Gradient Optimization|  | [FML] Appx A, B; [Convex Optimization book](https://web.stanford.edu/~boyd/cvxbook/)|
 |13 feb|Linear Regression|  |   |
 |20 feb|Linear Classification|  ||   
 |27 feb|Logistic Regression and SVM|  |   |
