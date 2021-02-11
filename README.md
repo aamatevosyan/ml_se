@@ -32,9 +32,11 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 
 #### Lectures
 
+[Lecture Recordings](https://eduhseru-my.sharepoint.com/:f:/g/personal/kroslovtseva_hse_ru/EsszFtVh8qdOuM_S2xhHYtIBdMyX2qaI6QGMwax-2AoTTQ?e=2O0OeF)
+
 | Date | Topic | Lecture materials| Reading|
 |------|-------|------------------|--------|
-|30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf), [Video](https://youtu.be/DeV6oMR84CM) |[FML] Ch 1; [ESL] Ch 2.1-2.2 |
+|30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf) |[FML] Ch 1; [ESL] Ch 2.1-2.2 |
 |6 feb|Gradient Optimization|  | [FML] Appx A, B; [Convex Optimization book](https://web.stanford.edu/~boyd/cvxbook/)|
 |13 feb|Linear Regression|  |   |
 |20 feb|Linear Classification|  ||   
