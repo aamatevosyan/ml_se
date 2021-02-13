@@ -51,7 +51,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |------|-------|----------|-----------------------|
 |25-30 jan|Basic toolbox| [Notebook](practicals/Seminar_1/01_HSE_PE_Intro_to_Python_v4.ipynb); [Dataset](https://drive.google.com/drive/folders/1LeZ6JutPcRELcTi198AJe2n0tvgh_AAD?usp=sharing)|[Python Crash Course](practicals/Seminar_1/Additional_notebooks/)|
 |1-6 feb|EDA and Scikit-learn| [Notebook](practicals/Seminar_2/02_HSE_SE_EDA_v1.ipynb) ||
-|8-13 feb|Calculus recap and Gradient Descent| [Notebook](practicals/Seminar_3/sem03-gd.ipynb), [pdf](practicals/Seminar_3/sem03-vector-diff.ipynb) |[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi//matrixcookbook.pdf)|
+|8-13 feb|Calculus recap and Gradient Descent| [Notebook](practicals/Seminar_3/sem03-gd.ipynb), [pdf](practicals/Seminar_3/sem03-vector-diff.pdf) |[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi//matrixcookbook.pdf)|
 |15-20 feb|Linear Regression|  ||
 |22-27 feb|Classification|  ||
 |1-6 mar|Texts and Multiclass classification|  ||
