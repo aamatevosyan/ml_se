@@ -58,7 +58,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |22-27 feb|Classification| [Notebook](practicals/Seminar_5/05_HSE_PE_Classification_v2.ipynb) ||
 |1-6 mar|Texts and Multiclass classification|  [Notebook](practicals/Seminar_6/Seminar_6_intro_to_NLP.ipynb), [Dataset](practicals/Seminar_6/text_lemmatized.zip) ||
 |8-13 mar|Decision Trees|  ||
-|15-20 mar|Ensambles|  ||
+|15-20 mar|Ensembles|  ||
 |`TBA`| Practicals 9 - 15 here |  |  |
 
 ## Assignments
