@@ -45,6 +45,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |12 mar|Bagging, Random Forest|  |   |
 |19 mar|Gradient boosting|  |   |
 |22 mar - 4 apr| NO LECTURES | --- | --- |
+|`TBA`| Lectures 9 - 15 here |  |  |
 
 #### Practicals
 
@@ -58,6 +59,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |1-6 mar|Texts and Multiclass classification|  [Notebook](practicals/Seminar_6/Seminar_6_intro_to_NLP.ipynb), [Dataset](practicals/Seminar_6/text_lemmatized.zip) ||
 |8-13 mar|Decision Trees|  ||
 |15-20 mar|Ensambles|  ||
+|`TBA`| Practicals 9 - 15 here |  |  |
 
 ## Assignments
 
