@@ -54,8 +54,8 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |1-6 feb|EDA and Scikit-learn| [Notebook](practicals/Seminar_2/02_HSE_SE_EDA_v1.ipynb) ||
 |8-13 feb|Calculus recap and Gradient Descent| [Notebook](practicals/Seminar_3/sem03-gd.ipynb), [pdf](practicals/Seminar_3/sem03-vector-diff.pdf) |[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi//matrixcookbook.pdf)|
 |15-20 feb|Linear Regression|[Notebook](practicals/Seminar_4/04_HSE_SE_Linear_regression_v3.ipynb)  ||
-|22-27 feb|Classification|  ||
-|1-6 mar|Texts and Multiclass classification|  ||
+|22-27 feb|Classification| [Notebook](practicals/Seminar_5/05_HSE_PE_Classification_v2.ipynb) ||
+|1-6 mar|Texts and Multiclass classification|  [Notebook](practicals/Seminar_6/Seminar_6_intro_to_NLP.ipynb), [Dataset](practicals/Seminar_6/text_lemmatized.zip) ||
 |8-13 mar|Decision Trees|  ||
 |15-20 mar|Ensambles|  ||
 
