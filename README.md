@@ -36,14 +36,16 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 
 | Date | Topic | Lecture materials| Reading|
 |------|-------|------------------|--------|
-|30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf) |[FML] Ch 1; [ESL] Ch 2.1-2.2 |
+|30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf) |[FML] Ch 1; [ESL] Ch 2.1-2 |
 |6 feb|Gradient Optimization| [Slides](lectures/lecture2_gd.pdf) | [FML] Appx A, B; [Convex Optimization book](https://web.stanford.edu/~boyd/cvxbook/)|
-|13 feb|Linear Regression| [Slides](lectures/lecture_3.slides.html), [Notebook](lectures/lecture_3.ipynb) |   |
-|20 feb|Linear Classification|  ||   
-|27 feb|Logistic Regression and SVM|  |   |
+|13 feb|Linear Regression| [Slides](lectures/lecture_3.slides.html), [Notebook](lectures/lecture_3.ipynb) |[PR] Ch 3.1; [ESL] Ch 3.1-4;  [FML] Ch 4.4-6|
+|20 feb|Linear Classification| [Slides (GLM)](lectures/lecture_4_intro.pdf), [Notes (GLM)](lectures/lecture_4_notes_GLM.pdf) ,  [Slides (linclass)](lectures/lecture_4_linclass.pdf)  |[PR] Ch 4.1;  [ESL] Ch 4.1-2, 4.4; [FML] Ch 13|   
+|27 feb|Logistic Regression and SVM| [Slides](lectures/lecture_5.slides.html) |[ESL] Ch 12.1-3; [FML] Ch 5, 6  |
 |6 mar|Decision Trees|  |   |
-|13 mar|Bagging, Random Forest|  |   |
-|20 mar|Gradient boosting|  |   |
+|12 mar|Bagging, Random Forest|  |   |
+|19 mar|Gradient boosting|  |   |
+|22 mar - 4 apr| NO LECTURES | --- | --- |
+|`TBA`| Lectures 9 - 15 here |  |  |
 
 #### Practicals
 
@@ -52,11 +54,12 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |25-30 jan|Basic toolbox| [Notebook](practicals/Seminar_1/01_HSE_PE_Intro_to_Python_v4.ipynb); [Dataset](https://drive.google.com/drive/folders/1LeZ6JutPcRELcTi198AJe2n0tvgh_AAD?usp=sharing)|[Python Crash Course](practicals/Seminar_1/Additional_notebooks/)|
 |1-6 feb|EDA and Scikit-learn| [Notebook](practicals/Seminar_2/02_HSE_SE_EDA_v1.ipynb) ||
 |8-13 feb|Calculus recap and Gradient Descent| [Notebook](practicals/Seminar_3/sem03-gd.ipynb), [pdf](practicals/Seminar_3/sem03-vector-diff.pdf) |[The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi//matrixcookbook.pdf)|
-|15-20 feb|Linear Regression|  ||
-|22-27 feb|Classification|  ||
-|1-6 mar|Texts and Multiclass classification|  ||
-|8-13 mar|Decision Trees|  ||
-|15-20 mar|Ensambles|  ||
+|15-20 feb|Linear Regression|[Notebook](practicals/Seminar_4/04_HSE_SE_Linear_regression_v3.ipynb)  ||
+|22-27 feb|Classification| [Notebook](practicals/Seminar_5/05_HSE_PE_Classification_v2.ipynb) ||
+|1-6 mar|Texts and Multiclass classification|  [Notebook](practicals/Seminar_6/Seminar_6_intro_to_NLP.ipynb), [Dataset](practicals/Seminar_6/text_lemmatized.zip) ||
+|8-13 mar|Decision Trees| [Notebook](practicals/Seminar_7/Seminar_07_Decision_trees.ipynb) ||
+|15-20 mar|Ensembles|  ||
+|`TBA`| Practicals 9 - 15 here |  |  |
 
 ## Assignments
 
@@ -65,11 +68,11 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 | Date Published| Task | Deadline | 
 |----------------|---------|---------|
 |  6 feb  |HW 1: [Notebook](hw/hw_1/task.ipynb), [dataset](hw/hw_1/titanic.csv)| 20 feb|
-|  20 feb |HW 2: `TBA`| 6 mar|
-|  6 mar  |HW 3: `TBA`| 20 mar|
-|  20 mar |HW 4: `TBA`| 10 apr|
-|  24 apr |HW 5: `TBA`| 15 may|
-|  29 may |HW 6 (Optional): `TBA`| 19 jun|
+|  26 feb |HW 2: [Notebook](hw/hw_2/homework-practice-02_v3.ipynb)| 13 mar|
+|    |HW 3: `TBA`| |
+|   |HW 4: `TBA`| |
+|   |HW 5: `TBA`| |
+|   |HW 6 (Optional): `TBA`| |
 
 
 
