@@ -36,11 +36,11 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 
 | Date | Topic | Lecture materials| Reading|
 |------|-------|------------------|--------|
-|30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf) |[FML] Ch 1; [ESL] Ch 2.1-2.2 |
+|30 jan|Introduction| [Slides](lectures/lecture1_intro.pdf) |[FML] Ch 1; [ESL] Ch 2.1-2 |
 |6 feb|Gradient Optimization| [Slides](lectures/lecture2_gd.pdf) | [FML] Appx A, B; [Convex Optimization book](https://web.stanford.edu/~boyd/cvxbook/)|
-|13 feb|Linear Regression| [Slides](lectures/lecture_3.slides.html), [Notebook](lectures/lecture_3.ipynb) |[PR] Ch 3.1; [ESL] Ch 3.1-3.4;  [FML] Ch 4.4-4.6|
-|20 feb|Linear Classification|  ||   
-|27 feb|Logistic Regression and SVM|  |   |
+|13 feb|Linear Regression| [Slides](lectures/lecture_3.slides.html), [Notebook](lectures/lecture_3.ipynb) |[PR] Ch 3.1; [ESL] Ch 3.1-4;  [FML] Ch 4.4-6|
+|20 feb|Linear Classification| [Slides (GLM)](lectures/lecture_4_intro.pdf), [Notes (GLM)](lectures/lecture_4_notes_GLM.pdf) ,  [Slides (linclass)](lectures/lecture_4_linclass.pdf)  |[PR] Ch 4.1;  [ESL] Ch 4.1-2, 4.4; [FML] Ch 13|   
+|27 feb|Logistic Regression and SVM| [Slides](lectures/lecture_5.slides.html) |[ESL] Ch 12.1-3; [FML] Ch 5, 6  |
 |6 mar|Decision Trees|  |   |
 |12 mar|Bagging, Random Forest|  |   |
 |19 mar|Gradient boosting|  |   |
@@ -57,7 +57,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |15-20 feb|Linear Regression|[Notebook](practicals/Seminar_4/04_HSE_SE_Linear_regression_v3.ipynb)  ||
 |22-27 feb|Classification| [Notebook](practicals/Seminar_5/05_HSE_PE_Classification_v2.ipynb) ||
 |1-6 mar|Texts and Multiclass classification|  [Notebook](practicals/Seminar_6/Seminar_6_intro_to_NLP.ipynb), [Dataset](practicals/Seminar_6/text_lemmatized.zip) ||
-|8-13 mar|Decision Trees|  ||
+|8-13 mar|Decision Trees| [Notebook](practicals/Seminar_7/Seminar_07_Decision_trees.ipynb) ||
 |15-20 mar|Ensembles|  ||
 |`TBA`| Practicals 9 - 15 here |  |  |
 
