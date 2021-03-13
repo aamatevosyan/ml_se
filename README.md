@@ -42,7 +42,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |20 feb|4.Linear Classification| [Slides (GLM)](lectures/lecture_4_intro.pdf), [Notes (GLM)](lectures/lecture_4_notes_GLM.pdf) ,  [Slides (linclass)](lectures/lecture_4_linclass.pdf)  |[PR] Ch 4.1;  [ESL] Ch 4.1-2, 4.4; [FML] Ch 13|   
 |27 feb|5.Logistic Regression and SVM| [Slides](lectures/lecture_5.slides.html) |[ESL] Ch 12.1-3; [FML] Ch 5, 6  |
 |6 mar|6.Decision Trees| [Slides](lectures/lecture_6_trees.pdf) |   |
-|12 mar|7.Bagging, Random Forest|  |   |
+|12 mar|7.Bagging, Random Forest| [Slides](lectures/lecture_7.slides.html), [Notebook](lectures/lecture_7.ipynb)|   |
 |19 mar|8.Gradient boosting|  |   |
 |22 mar - 4 apr| NO LECTURES | --- | --- |
 |9 apr|9.Clustering and Anomaly Detection |  |  |
@@ -65,7 +65,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |22-27 feb|5.Classification| [Notebook](practicals/Seminar_5/05_HSE_PE_Classification_v2.ipynb) ||
 |1-6 mar|6.Texts and Multiclass classification|  [Notebook](practicals/Seminar_6/Seminar_6_intro_to_NLP.ipynb), [Dataset](practicals/Seminar_6/text_lemmatized.zip) ||
 |8-13 mar|7.Decision Trees| [Notebook](practicals/Seminar_7/Seminar_07_Decision_trees.ipynb) ||
-|15-20 mar|8.Ensembles|  | |
+|15-20 mar|8.Ensembles| [Notebook](practicals/Seminar_8/Seminar_8_ensembles.ipynb)   | |
 |5-10 apr|9.Gradient Boosting |  |  |
 |12-17 apr|10.Anomaly detection and Clustering |  |  |
 |19-24 apr|11.EM |  |  |
