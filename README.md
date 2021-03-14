@@ -81,9 +81,9 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 
 | Date Published| Task | Deadline | 
 |----------------|---------|---------|
-|  6 feb  |HW 1: [Notebook](hw/hw_1/task.ipynb), [dataset](hw/hw_1/titanic.csv)| 20 feb|
-|  26 feb |HW 2: [Notebook](hw/hw_2/homework-practice-02_v3.ipynb)| 13 mar|
-|    |HW 3: `TBA`| |
+| 6 feb  |HW 1: [Notebook](hw/hw_1/task.ipynb), [dataset](hw/hw_1/titanic.csv)| 20 feb|
+| 26 feb |HW 2: [Notebook](hw/hw_2/homework-practice-02_v3.ipynb)| 13 mar|
+| 14 mar |HW 3: [Notebook](hw/hw_3/HW3_v6.ipynb)| 4 apr|
 |   |HW 4: `TBA`| |
 |   |HW 5: `TBA`| |
 |   |HW 6 (Optional): `TBA`| |
