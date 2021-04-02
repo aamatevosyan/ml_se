@@ -41,9 +41,9 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |13 feb|3.Linear Regression| [Slides](lectures/lecture_3.slides.html), [Notebook](lectures/lecture_3.ipynb) |[PR] Ch 3.1; [ESL] Ch 3.1-4;  [FML] Ch 4.4-6|
 |20 feb|4.Linear Classification| [Slides (GLM)](lectures/lecture_4_intro.pdf), [Notes (GLM)](lectures/lecture_4_notes_GLM.pdf) ,  [Slides (linclass)](lectures/lecture_4_linclass.pdf)  |[PR] Ch 4.1;  [ESL] Ch 4.1-2, 4.4; [FML] Ch 13|   
 |27 feb|5.Logistic Regression and SVM| [Slides](lectures/lecture_5.slides.html) |[ESL] Ch 12.1-3; [FML] Ch 5, 6  |
-|6 mar|6.Decision Trees| [Slides](lectures/lecture_6_trees.pdf) |   |
-|12 mar|7.Bagging, Random Forest| [Slides](lectures/lecture_7.slides.html), [Notebook](lectures/lecture_7.ipynb)|   |
-|19 mar|8.Gradient boosting|  |   |
+|6 mar|6.Decision Trees| [Slides](lectures/lecture_6_trees.pdf) | [ESL] Ch 9.2|
+|12 mar|7.Bagging, Random Forest| [Slides](lectures/lecture_7.slides.html), [Notebook](lectures/lecture_7.ipynb)|[PR] Ch 3.2 (bias-variance) [ESL] Ch 8  [FML] Ch 7|
+|19 mar|8.Gradient boosting|  |  [PR] Ch 14.3 [ESL] Ch 10|
 |22 mar - 4 apr| NO LECTURES | --- | --- |
 |9 apr|9.Clustering and Anomaly Detection |  |  |
 |16 apr|10.EM and PCA |  |  |
