@@ -67,7 +67,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |8-13 mar|7.Decision Trees| [Notebook](practicals/Seminar_7/Seminar_07_Decision_trees.ipynb) ||
 |15-20 mar|8.Ensembles| [Notebook](practicals/Seminar_8/Seminar_8_ensembles.ipynb)   | |
 |5-10 apr|9.Gradient Boosting | [Notebook](practicals/Seminar_9/sem09-gbm.ipynb)  |  |
-|12-17 apr|10.Anomaly detection and Clustering |  |  |
+|12-17 apr|10.Anomaly detection and Clustering | [Notebook](practicals/Seminar_10/sem10_clustering_anomaly_detection.ipynb)  |  |
 |19-24 apr|11.EM |  |  |
 |25-30 apr|12.Empirical Bayes and RVM |  |  |
 |10-15 may|13.GP  |  |  |
