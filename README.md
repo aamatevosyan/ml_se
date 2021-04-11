@@ -81,12 +81,13 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 
 | Date Published| Task | Deadline | 
 |----------------|---------|---------|
-| 6 feb  |HW 1: [Notebook](hw/hw_1/), [dataset](hw/hw_1/titanic.csv)| 20 feb|
-| 26 feb |HW 2: [Notebook](hw/hw_2/)| 13 mar|
-| 14 mar |HW 3: [Notebook](hw/hw_3/)| 4 apr|
-| 10 apr |HW 4: [Notebook](hw/hw_4/)| 1 may|
+| 6 feb  |HW 1: [Notebook](hw/hw_1/task.ipynb), [dataset](hw/hw_1/titanic.csv)| 20 feb|
+| 26 feb |HW 2: [Notebook](hw/hw_2/homework-practice-02_v3.ipynb)| 13 mar|
+| 14 mar |HW 3: [Notebook](hw/hw_3/HW3_v7.ipynb)| 4 apr|
+| 10 apr |HW 4: [Notebook](hw/hw_4/hw4.ipynb), [dataset](hw/hw_4/thyroid_disease.csv)| 1 may|
 |   |HW 5: `TBA`| |
 |   |HW 6 (Optional): `TBA`| |
+
 
 
 
