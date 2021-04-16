@@ -46,7 +46,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |19 mar|8.Gradient boosting| [Slides](lectures/lecture_8.pdf) |  [PR] Ch 14.3 [ESL] Ch 10|
 |22 mar - 4 apr| NO LECTURES | --- | --- |
 |9 apr|9.Clustering and Anomaly Detection | [Slides](lectures/lecture_9.slides.html), [Notebook](lectures/lecture_9.ipynb) |  |
-|16 apr|10.EM and PCA |  |  |
+|16 apr|10.EM and PCA | [Lecture notes](lectures/lecture10_em.pdf) |  |
 |23 apr|11.Bayesian Linear Regression|  |  |
 |30 apr|12.GP for regression and classification tasks |  |  |
 |14 may|13.MLP and DNN for Classification |  |  |
