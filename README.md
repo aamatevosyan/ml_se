@@ -41,12 +41,12 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |13 feb|3.Linear Regression| [Slides](lectures/lecture_3.slides.html), [Notebook](lectures/lecture_3.ipynb) |[PR] Ch 3.1; [ESL] Ch 3.1-4;  [FML] Ch 4.4-6|
 |20 feb|4.Linear Classification| [Slides (GLM)](lectures/lecture_4_intro.pdf), [Notes (GLM)](lectures/lecture_4_notes_GLM.pdf) ,  [Slides (linclass)](lectures/lecture_4_linclass.pdf)  |[PR] Ch 4.1;  [ESL] Ch 4.1-2, 4.4; [FML] Ch 13|   
 |27 feb|5.Logistic Regression and SVM| [Slides](lectures/lecture_5.slides.html) |[ESL] Ch 12.1-3; [FML] Ch 5, 6  |
-|6 mar|6.Decision Trees| [Slides](lectures/lecture_6_trees.pdf) |   |
-|12 mar|7.Bagging, Random Forest| [Slides](lectures/lecture_7.slides.html), [Notebook](lectures/lecture_7.ipynb)|   |
-|19 mar|8.Gradient boosting|  |   |
+|6 mar|6.Decision Trees| [Slides](lectures/lecture_6_trees.pdf) | [ESL] Ch 9.2|
+|12 mar|7.Bagging, Random Forest| [Slides](lectures/lecture_7.slides.html), [Notebook](lectures/lecture_7.ipynb)|[PR] Ch 3.2 (bias-variance) [ESL] Ch 8  [FML] Ch 7|
+|19 mar|8.Gradient boosting| [Slides](lectures/lecture_8.pdf) |  [PR] Ch 14.3 [ESL] Ch 10|
 |22 mar - 4 apr| NO LECTURES | --- | --- |
-|9 apr|9.Clustering and Anomaly Detection |  |  |
-|16 apr|10.EM and PCA |  |  |
+|9 apr|9.Clustering and Anomaly Detection | [Slides](lectures/lecture_9.slides.html), [Notebook](lectures/lecture_9.ipynb) |  |
+|16 apr|10.EM and PCA | [Lecture notes](lectures/lecture10_em.pdf) |  |
 |23 apr|11.Bayesian Linear Regression|  |  |
 |30 apr|12.GP for regression and classification tasks |  |  |
 |14 may|13.MLP and DNN for Classification |  |  |
@@ -66,8 +66,8 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |1-6 mar|6.Texts and Multiclass classification|  [Notebook](practicals/Seminar_6/Seminar_6_intro_to_NLP.ipynb), [Dataset](practicals/Seminar_6/text_lemmatized.zip) ||
 |8-13 mar|7.Decision Trees| [Notebook](practicals/Seminar_7/Seminar_07_Decision_trees.ipynb) ||
 |15-20 mar|8.Ensembles| [Notebook](practicals/Seminar_8/Seminar_8_ensembles.ipynb)   | |
-|5-10 apr|9.Gradient Boosting |  |  |
-|12-17 apr|10.Anomaly detection and Clustering |  |  |
+|5-10 apr|9.Gradient Boosting | [Notebook](practicals/Seminar_9/sem09-gbm.ipynb)  |  |
+|12-17 apr|10.Anomaly detection and Clustering | [Notebook](practicals/Seminar_10/sem10_clustering_anomaly_detection_v1.2.ipynb)  |  |
 |19-24 apr|11.EM |  |  |
 |25-30 apr|12.Empirical Bayes and RVM |  |  |
 |10-15 may|13.GP  |  |  |
@@ -81,12 +81,13 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 
 | Date Published| Task | Deadline | 
 |----------------|---------|---------|
-| 6 feb  |HW 1: [Notebook](hw/hw_1/), [dataset](hw/hw_1/titanic.csv)| 20 feb|
-| 26 feb |HW 2: [Notebook](hw/hw_2/)| 13 mar|
-| 14 mar |HW 3: [Notebook](hw/hw_3/)| 4 apr|
-|   |HW 4: `TBA`| |
+| 6 feb  |HW 1: [Notebook](hw/hw_1/task.ipynb), [dataset](hw/hw_1/titanic.csv)| 20 feb|
+| 26 feb |HW 2: [Notebook](hw/hw_2/homework-practice-02_v3.ipynb)| 13 mar|
+| 14 mar |HW 3: [Notebook](hw/hw_3/HW3_v7.ipynb)| 4 apr|
+| 10 apr |HW 4: [Notebook](hw/hw_4/hw4.ipynb), [dataset](hw/hw_4/thyroid_disease.csv)| 1 may|
 |   |HW 5: `TBA`| |
 |   |HW 6 (Optional): `TBA`| |
+
 
 
 
