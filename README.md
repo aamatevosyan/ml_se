@@ -45,11 +45,11 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |12 mar|7.Bagging, Random Forest| [Slides](lectures/lecture_7.slides.html), [Notebook](lectures/lecture_7.ipynb)|[PR] Ch 3.2 (bias-variance) [ESL] Ch 8  [FML] Ch 7|
 |19 mar|8.Gradient boosting| [Slides](lectures/lecture_8.pdf) |  [PR] Ch 14.3 [ESL] Ch 10|
 |22 mar - 4 apr| NO LECTURES | --- | --- |
-|9 apr|9.Clustering and Anomaly Detection | [Slides](lectures/lecture_9.slides.html), [Notebook](lectures/lecture_9.ipynb) |  |
-|16 apr|10.EM and PCA | [Lecture notes](lectures/lecture10_em.pdf) |  |
-|23 apr|11.Bayesian Linear Regression| [Slides](lectures/Lecture11_intro_bml.pdf) |  |
-|30 apr|12.GP for regression and classification tasks |  |  |
-|14 may|13.MLP and DNN for Classification |  |  |
+|9 apr|9.Clustering and Anomaly Detection | [Slides](lectures/lecture_9.slides.html), [Notebook](lectures/lecture_9.ipynb) |[PR] Ch 9.1; [ESL] Ch 13.2, 14.3  |
+|16 apr|10.EM and PCA | [Lecture notes](lectures/lecture10_em.pdf) | [PR] Ch 9.2-9.4; [ESL] Ch 8.5 |
+|23 apr|11.Bayesian Linear Regression| [Slides](lectures/Lecture11_intro_bml.pdf) | [PR] Ch 2.3-2.4, 3.3-3.5 |
+|30 apr|12.GP for regression and classification tasks |  | [PR] Ch 6.4 |
+|14 may|13.MLP and DNN for Classification |  |  [PR] Ch 5.1-5.5; [ESL] Ch 11 |
 |21 may|14.Deep Generative Models |  |  |
 |28 may|15.Summary |  |  |
 
@@ -69,7 +69,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |5-10 apr|9.Gradient Boosting | [Notebook](practicals/Seminar_9/sem09-gbm.ipynb)  |  |
 |12-17 apr|10.Anomaly detection and Clustering | [Notebook](practicals/Seminar_10/sem10_clustering_anomaly_detection_v1.2.ipynb)  |  |
 |19-24 apr|11.EM | [Tasks](practicals/Seminar_11/sem11-em.pdf) |  |
-|25-30 apr|12.Empirical Bayes and RVM |  [Notebook](practicals/Seminar_12/sem12-bayes_rvm.ipynb)  |  |
+|25-30 apr|12.Empirical Bayes and RVM |  [Notebook](practicals/Seminar_12/sem12-bayes_rvm.ipynb)  | [PR] Ch 7.2 |
 |10-15 may|13.GP  |  |  |
 |17-22 may|14.MLP |  |  |
 |24-29 may|15.Summary |  |  |
