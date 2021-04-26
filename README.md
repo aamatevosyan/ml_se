@@ -47,7 +47,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |22 mar - 4 apr| NO LECTURES | --- | --- |
 |9 apr|9.Clustering and Anomaly Detection | [Slides](lectures/lecture_9.slides.html), [Notebook](lectures/lecture_9.ipynb) |  |
 |16 apr|10.EM and PCA | [Lecture notes](lectures/lecture10_em.pdf) |  |
-|23 apr|11.Bayesian Linear Regression|  |  |
+|23 apr|11.Bayesian Linear Regression| [Slides](lectures/Lecture11_intro_bml.pdf) |  |
 |30 apr|12.GP for regression and classification tasks |  |  |
 |14 may|13.MLP and DNN for Classification |  |  |
 |21 may|14.Deep Generative Models |  |  |
@@ -68,8 +68,8 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |15-20 mar|8.Ensembles| [Notebook](practicals/Seminar_8/Seminar_8_ensembles.ipynb)   | |
 |5-10 apr|9.Gradient Boosting | [Notebook](practicals/Seminar_9/sem09-gbm.ipynb)  |  |
 |12-17 apr|10.Anomaly detection and Clustering | [Notebook](practicals/Seminar_10/sem10_clustering_anomaly_detection_v1.2.ipynb)  |  |
-|19-24 apr|11.EM |  |  |
-|25-30 apr|12.Empirical Bayes and RVM |  |  |
+|19-24 apr|11.EM | [Tasks](practicals/Seminar_11/sem11-em.pdf) |  |
+|25-30 apr|12.Empirical Bayes and RVM |  [Notebook](practicals/Seminar_12/sem12-bayes_rvm.ipynb)  |  |
 |10-15 may|13.GP  |  |  |
 |17-22 may|14.MLP |  |  |
 |24-29 may|15.Summary |  |  |
