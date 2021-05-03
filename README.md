@@ -85,7 +85,7 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 | 26 feb |HW 2: [Notebook](hw/hw_2/homework-practice-02_v3.ipynb)| 13 mar|
 | 14 mar |HW 3: [Notebook](hw/hw_3/HW3_v7.ipynb)| 4 apr|
 | 10 apr |HW 4: [Notebook](hw/hw_4/hw4.ipynb), [dataset](hw/hw_4/thyroid_disease.csv)| 1 may|
-|   |HW 5: `TBA`| |
+| 3 may  |HW 5: [Notebook](hw/hw_5/hw5.ipynb)| 24 may |
 |   |HW 6 (Optional): `TBA`| |
 
 
