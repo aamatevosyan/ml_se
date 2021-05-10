@@ -70,7 +70,7 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |12-17 apr|10.Anomaly detection and Clustering | [Notebook](practicals/Seminar_10/sem10_clustering_anomaly_detection_v1.2.ipynb)  |  |
 |19-24 apr|11.EM | [Tasks](practicals/Seminar_11/sem11-em.pdf) |  |
 |25-30 apr|12.Empirical Bayes and RVM |  [Notebook](practicals/Seminar_12/sem12-bayes_rvm.ipynb)  | [PR] Ch 7.2 |
-|10-15 may|13.GP  |  |  |
+|10-15 may|13.GP  | [Notebook](practicals/Seminar_13/sem13_gp.ipynb)  |  |
 |17-22 may|14.MLP |  |  |
 |24-29 may|15.Summary |  |  |
 
@@ -85,7 +85,7 @@ We'll be using AnyTask for grading: [course link](https://anytask.org/course/769
 | 26 feb |HW 2: [Notebook](hw/hw_2/homework-practice-02_v3.ipynb)| 13 mar|
 | 14 mar |HW 3: [Notebook](hw/hw_3/HW3_v7.ipynb)| 4 apr|
 | 10 apr |HW 4: [Notebook](hw/hw_4/hw4.ipynb), [dataset](hw/hw_4/thyroid_disease.csv)| 1 may|
-|   |HW 5: `TBA`| |
+| 3 may  |HW 5: [Notebook & datasets](hw/hw_5)| 24 may |
 |   |HW 6 (Optional): `TBA`| |
 
 
