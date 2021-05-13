@@ -49,8 +49,8 @@ Use [this form](https://forms.gle/KeGbnntmsPcQXzhX6) to send feedback to the cou
 |16 apr|10.EM and PCA | [Lecture notes](lectures/lecture10_em.pdf) | [PR] Ch 9.2-9.4; [ESL] Ch 8.5 |
 |23 apr|11.Bayesian Linear Regression| [Slides](lectures/Lecture11_intro_bml.pdf) | [PR] Ch 2.3-2.4, 3.3-3.5 |
 |30 apr|12.GP for regression and classification tasks |  | [PR] Ch 6.4 |
-|14 may|13.MLP and DNN for Classification |  |  [PR] Ch 5.1-5.5; [ESL] Ch 11 |
-|21 may|14.Deep Generative Models |  |  |
+|14 may|13.MLP and DNN for Classification | [Slides](lectures/Lecture13_intro_mlp_empty.pdf)  |  [PR] Ch 5.1-5.5; [ESL] Ch 11 |
+|21 may|14.Deep Generative Models |  | [Overview](https://arxiv.org/abs/1906.02691) |
 |28 may|15.Summary |  |  |
 
 
